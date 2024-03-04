@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "tittle": "Camino hacia el terror 3",
+        "year": "2000",
+        "rating": "5.0"
+    },
+    {
+        "id": 2,
+        "tittle": "Juegos del hambre part1",
+        "year": "1999",
+        "rating": "5.0"
+    }
+]
